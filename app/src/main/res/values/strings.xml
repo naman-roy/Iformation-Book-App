@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Information Book</string>
+
+
+    <string name="country_info_uk">
+    <![CDATA[<b>United Kingdom</b>\n
+        Basic Facts:\n
+        Capital: London\n
+        Population: 67 million (2023 estimate)\n
+        Languages: English (official), Welsh, Scottish Gaelic, Irish\n
+        Currency: British Pound (GBP)\n
+        Calling Code: +44\n
+        Time Zone: GMT (Greenwich Mean Time)\n
+        Area: 242,495 square kilometers (93,628 sq mi)\n\n
+        History:\n
+        Shaped by centuries of rich history, the United Kingdom comprises England, Scotland, Wales, and Northern Ireland. Key events include:\n
+        - Roman occupation\n
+        - Viking invasions\n
+        - Norman conquest\n
+        - Magna Carta\n
+        - Tudor dynasty and exploration\n
+        - English Civil War\n
+        - Industrial Revolution\n
+        - British Empire\n
+        - World Wars\n
+        - Decolonization\n
+        - Brexit\n\n
+        Culture:\n
+        The UK boasts a vibrant and diverse culture, known for:\n
+        - Literature (Shakespeare, Brontë sisters, Tolkien, Rowling)\n
+        - Music (The Beatles, Queen, Adele, Ed Sheeran)\nFrom the cosmopolitan buzz of London to the quiet charm of Welsh villages, from the windswept wilderness of Scotland to the rugged beauty of Northern Ireland, the United Kingdom promises an unforgettable experience – a journey where history whispers, landscapes inspire, and cultural melodies linger long after your departure.
+    ]]>
+
+    </string>
+
+    <string name="country_info_france">
+    <![CDATA[<b>United Kingdom</b>\n
+        Basic Facts:\n
+        Capital: London\n
+        Population: 67 million (2023 estimate)\n
+        Languages: English (official), Welsh, Scottish Gaelic, Irish\n
+        Currency: British Pound (GBP)\n
+        Calling Code: +44\n
+        Time Zone: GMT (Greenwich Mean Time)\n
+        Area: 242,495 square kilometers (93,628 sq mi)\n\n
+        History:\n
+        Shaped by centuries of rich history, the United Kingdom comprises England, Scotland, Wales, and Northern Ireland. Key events include:\n
+        - Roman occupation\n
+        - Viking invasions\n
+        - Norman conquest\n
+        - Magna Carta\n
+        - Tudor dynasty and exploration\n
+        - English Civil War\n
+        - Industrial Revolution\n
+        - British Empire\n
+        - World Wars\n
+        - Decolonization\n
+        - Brexit\n\n
+        Culture:\n
+        The UK boasts a vibrant and diverse culture, known for:\n
+        - Literature (Shakespeare, Brontë sisters, Tolkien, Rowling)\n
+        - Music (The Beatles, Queen, Adele, Ed Sheeran)\nFrom the cosmopolitan buzz of London to the quiet charm of Welsh villages, from the windswept wilderness of Scotland to the rugged beauty of Northern Ireland, the United Kingdom promises an unforgettable experience – a journey where history whispers, landscapes inspire, and cultural melodies linger long after your departure.
+    ]]>
+
+    </string>
+
+
+
+
+</resources>
